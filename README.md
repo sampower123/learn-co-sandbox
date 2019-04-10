@@ -1,3 +1,5 @@
+code-alonggit remote add origin https://github.com/sampower123/test.git
+git push -u origin master
 Hi! 👋
 
 You've opened the IDE Sandbox. 🎉
